@@ -12,3 +12,9 @@
 # Quick start
 * For Russia: Download [latest version from Releases page](https://github.com/pl1xy/byeDiscord/releases/tag/Discord), unpack the file and run `blacklist_discord.cmd` script.
 * Based on [zapret](https://github.com/bol-van/zapret).
+* If you need YouTube, open the `list-discord.txt` and add the following:
+```
+googlevideo.com
+youtubei.googleapis.com
+i.ytimg.com
+```
