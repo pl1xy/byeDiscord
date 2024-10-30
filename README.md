@@ -10,7 +10,7 @@
 Большая часть функционала работает на windows.
 
 # Quick start
-* For Russia: Download [latest version from Releases page](https://github.com/pl1xy/byeDiscord/releases/tag/Discord), unpack the file and run `blacklist_discord.cmd` script.
+* For Russia: Download [latest version from Releases page](https://github.com/pl1xy/byeDiscord/releases/tag/Discord), unpack the file and run `blacklist_discord.cmd` or `general.bat` script.
 * Based on [zapret](https://github.com/bol-van/zapret).
 * If you need YouTube, open the `list-discord.txt` and add the following:
 ```
